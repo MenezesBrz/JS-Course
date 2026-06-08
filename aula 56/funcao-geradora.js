@@ -51,7 +51,7 @@ function* geradora5() {
 
     return function() {
         console.log('Vim do return');
-    };
+    }; 
 
     // ...
 
